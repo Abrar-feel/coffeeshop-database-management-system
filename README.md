@@ -1,7 +1,7 @@
 # coffeeshop-database-management-system
 A relational database management system developed using Microsoft Access, including database design, relationships, queries, forms, and reports.
 
-# Restaurant Database Management System
+# CoffeeShop Database Management System
 
 A relational database project developed using **Microsoft Access** as part of our Database course.
 
